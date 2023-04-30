@@ -10,4 +10,4 @@ I hope this notebook can be a valuable resource for those looking to understand 
 ### Phyaat1
 ### Phyaat2
 ## Intensity transformation
-## Malware detection (cybersecurity branch)
+## Malware detection [cybersecurity branch](https://github.com/hasanyusuf01/Codes/blob/cyber-security/malware_detection_ann.ipynb)
