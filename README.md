@@ -54,15 +54,7 @@ The EEG data is obtained from the PhyAAt dataset. You can download the dataset u
 
 Follow the steps mentioned in the notebook to run the code and analyze the EEG signal classification results.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ---
-
-Feel free to customize and add more sections based on the specifics of your project and requirements.
-
-### Phyaat1
-### Phyaat2
 ## Intensity transformation
 ## [Malware detection](https://github.com/hasanyusuf01/Codes/blob/cyber-security/malware_detection_ann.ipynb) (cybersecurity branch)
