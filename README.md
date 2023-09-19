@@ -6,9 +6,8 @@ Welcome to this notebook where I have created a deep neural network to classify 
 Using the Keras library, I was able to gain a better understanding of the underlying concepts and techniques used in deep learning. It was an exciting and enriching experience to build a model that can accurately classify handwritten digits.
 
 I hope this notebook can be a valuable resource for those looking to understand and build deep neural networks. With the knowledge gained from this project, one can explore further and tackle more challenging problems in the field of machine learning.
----
 
-# EEG Signal Classification using Classical Machine Learning Models
+## EEG Signal Classification using Classical Machine Learning Models
 
 This repository contains code for performing classification on EEG signals using classical machine learning models. The code includes preprocessing steps, feature extraction, and training a classifier for 4 types of classification tasks.
 
