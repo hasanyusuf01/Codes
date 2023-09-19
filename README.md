@@ -19,7 +19,8 @@ To run this code, you can either use the provided Jupyter notebook or open it in
 
 You can directly run the notebook in Google Colab by clicking the link below:
 
-[Open In Colab](#)  <!-- Add your Colab link here -->
+[Phyaat2](https://github.com/hasanyusuf01/Codes/blob/main/phyaat2.ipynb)  <!-- [Add your Colab link here](https://github.com/hasanyusuf01/Codes/blob/main/phyaat2.ipynb) -->
+[Phyaat2b](https://github.com/hasanyusuf01/Codes/blob/main/phyaat2b.ipynb)  <!-- [Add your Colab link here](https://github.com/hasanyusuf01/Codes/blob/main/phyaat2.ipynb) -->
 
 ### Installation
 
