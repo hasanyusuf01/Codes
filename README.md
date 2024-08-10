@@ -8,6 +8,7 @@ Using the Keras library, I was able to gain a better understanding of the underl
 I hope this notebook can be a valuable resource for those looking to understand and build deep neural networks. With the knowledge gained from this project, one can explore further and tackle more challenging problems in the field of machine learning.
 
 ## EEG Signal Classification using Classical Machine Learning Models
+![image](https://github.com/user-attachments/assets/b5b1fa89-3f1e-4541-ae50-b9778f8ca6c6)
 
 This repository contains code for performing classification on EEG signals using classical machine learning models. The code includes preprocessing steps, feature extraction, and training a classifier for 4 types of classification tasks.
 
